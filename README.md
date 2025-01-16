@@ -34,4 +34,4 @@
 
 ----
 
-- SSAFY 13기 교육ing~
+- SSAFY 13기 교육ing~!
